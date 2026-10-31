@@ -27,8 +27,6 @@ Thanks for helping make this guide more accurate. The most useful contribution i
 - Keep the HTML plain: one `<h1>` per numbered section, paragraphs in `<p>` with `<br>` separators, no CSS.
 - Known crash bugs are documented once, in section 4.3. Do not add repeated warnings elsewhere unless you found a new crash.
 
-See `CLAUDE.md` for the full working method.
-
 ## How to contribute
 
 1. Open an issue describing what is wrong or missing, with the section number and your setup. This is enough for most corrections.

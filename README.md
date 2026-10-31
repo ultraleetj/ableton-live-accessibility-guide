@@ -8,7 +8,6 @@ The guide is based on the original "Ableton Live Basics Guide with Accessibility
 
 - `Vitor_Ferreira_Ableton_Live_Basics_Guide_with_Accessibility_in_Perspective_mod.html`: the guide itself.
 - `CONTRIBUTING.md`: how to report corrections and add content.
-- `CLAUDE.md`: working method and style rules, used by the maintainer's AI assistant. Human contributors can read it as a style reference too.
 
 ## Format
 
