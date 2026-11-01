@@ -6,12 +6,17 @@ The guide is based on the original "Ableton Live Basics Guide with Accessibility
 
 ## Contents
 
-- `Vitor_Ferreira_Ableton_Live_Basics_Guide_with_Accessibility_in_Perspective_mod.html`: the guide itself.
+- [Open the guide](https://ultraleetj.github.io/ableton-live-accessibility-guide/Vitor_Ferreira_Ableton_Live_Basics_Guide_with_Accessibility_in_Perspective_mod.html): the guide itself, in the file `Vitor_Ferreira_Ableton_Live_Basics_Guide_with_Accessibility_in_Perspective_mod.html`.
 - `CONTRIBUTING.md`: how to report corrections and add content.
 
 ## Format
 
-The guide is a single plain HTML file with no CSS and no styling. It is meant to be read with a screen reader, not as a designed web page. Each numbered section is an `<h1>`, and shortcut lists use `<ul>` and `<li>`.
+The guide is one HTML file, made to be read with a screen reader.
+
+- Each numbered section is a heading.
+- Shortcuts are in lists.
+- There is no styling, so nothing gets in the way of the screen reader.
+- Instructions are written in plain, direct language.
 
 ## Tested on
 
